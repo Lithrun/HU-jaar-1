@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stations>
+	<station>
+		<name>Abcoude</name>
+		<shortname>Abcoude</shortname>
+		<type>stoptreinstation</type>
+		<lat>52.2785</lat>
+		<long>4.977</long>
+	</station>
+	<station>
+		<name>Arnhem</name>
+		<shortname>Arnhem</shortname>
+		<type>stoptreinstation</type>
+		<lat>51.9850006103516</lat>
+		<long>5.89916658401489</long>
+	</station>
+</stations>
